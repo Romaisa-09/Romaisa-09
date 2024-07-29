@@ -1,24 +1,23 @@
 - Hello World!!👋
 - Contact me at romishamaria@gmail.com
 
-
+<pre><code class="language-python">
 #!/usr/bin/python
-<br>
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
     class SoftwareEngineer:
-
     def __init__(self):
-        self.name = "Romaisa Maria"
+        self.name = "Zhenye Na"
         self.role = "Software Engineer"
-        self.language_spoken = ["ur_PK", "en_US"]
+        self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
-        print("Thanks for visiting! Dive into my work and discover the magic behind the code.")
-
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
     me = SoftwareEngineer()
     me.say_hi()
+</code></pre>
+
 
 
 
