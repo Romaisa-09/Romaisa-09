@@ -5,7 +5,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-{
     class SoftwareEngineer:
 
     def __init__(self):
@@ -20,7 +19,6 @@
     me = SoftwareEngineer()
     me.say_hi()
 
-}
 <!---
 Romaisa-09/Romaisa-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
