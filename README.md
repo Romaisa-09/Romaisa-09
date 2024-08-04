@@ -1,11 +1,8 @@
 - Hello World!!👋
 - Contact me at romishamaria@gmail.com
-
 <pre><code class="language-python">
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
     class SoftwareEngineer:
+    
     def __init__(self):
         self.name = "Romaisa Maria"
         self.role = "Software Engineer"
@@ -16,6 +13,7 @@
 
     me = SoftwareEngineer()
     me.say_hi()
+    
 </code></pre>
 
 
